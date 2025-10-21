@@ -198,4 +198,3 @@ This systems view reveals p5.js as a **meta-system** — a system designed to cr
 ---
 
 *Document created: October 2025*
-

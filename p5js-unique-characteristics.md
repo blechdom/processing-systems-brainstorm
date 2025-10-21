@@ -206,4 +206,3 @@ This combination of characteristics creates a system that is simultaneously:
 ---
 
 *Document created: October 2025*
-

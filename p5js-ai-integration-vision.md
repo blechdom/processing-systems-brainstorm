@@ -510,4 +510,3 @@ By grounding AI integration in p5.js's unique systems characteristics, we create
 ---
 
 *Document created: October 2025*
-
